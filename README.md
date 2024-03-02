@@ -17,37 +17,49 @@ This repository provides a simple Node.js application that demonstrates basic CR
 
 
 <h3>Technologies Used</h3>
+<ul>
+  <li>Node.js: A JavaScript runtime for server-side development.</li>
+  <li>Express.js: A minimalist web framework for Node.js, facilitating the building of robust web applications.</li>
+  <li>MongoDB: A NoSQL database for storing and managing data in a flexible, JSON-like format.</li>
+</ul>
 
-Node.js: A JavaScript runtime for server-side development.
-Express.js: A minimalist web framework for Node.js, facilitating the building of robust web applications.
-MongoDB: A NoSQL database for storing and managing data in a flexible, JSON-like format.
+
 <h3>Installation</h3>
-Clone the repository to your local machine:
 
-bash
-Copy code
-git clone https://github.com/your-username/node-crud.git
-Navigate to the project directory:
 
-bash
-Copy code
-cd node-crud
-Install dependencies:
+<ol>
+  <li>
+    <h4>Clone the repository to your local machine:</h4>
+    git clone https://github.com/your-username/node-crud.git</li>
+  <li>
+    <h4>Navigate to the project directory:</h4>
+    cd node-crud
+  </li>
+  <li>
+    <h4>Install dependencies:</h4>
+    npm install
+  </li>
+  <li>
+    <h4>Configure MongoDB connection:</h4>
+      Open config.js and update the MongoDB connection URL.
+  </li>
+  <li>
+    <h4>Start the application:</h4>
+    npm start
+  </li>
+  <li>
+    <h4>Access the application in your web browser at http://localhost:3000.</h4>
+  </li>
+</ol>
 
-bash
-Copy code
-npm install
-Configure MongoDB connection:
 
-Open config.js and update the MongoDB connection URL.
-Start the application:
 
-bash
-Copy code
-npm start
-Access the application in your web browser at http://localhost:3000.
 
-Usage
+
+
+
+<h1>Usage</h1>
+
 Open your web browser and navigate to http://localhost:3000.
 Use the provided interface to perform CRUD operations:
 Create: Click the "Add Item" button to add new items.
@@ -58,6 +70,11 @@ Contribution Guidelines
 If you wish to contribute to this project, please follow these guidelines:
 
 Fork the repository.
+<ol>
+  <li></li>
+  <li></li>
+  <li></li>
+</ol>
 Create a new branch for your feature or bug fix: git checkout -b feature-name.
 Make your changes and commit them: git commit -m "Your commit message".
 Push your changes to your fork: git push origin feature-name.
