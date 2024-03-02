@@ -1,5 +1,5 @@
 
-<h1> <a href="https://git.io/typing-svg">
+<h1 display="flex"> <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=500&color=178D9F&width=435&lines=heloooooo+%F0%9F%91%8B;This+is+Sahad+M">
   </a>Node CRUD Repository</h1>
 
