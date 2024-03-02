@@ -59,30 +59,39 @@ This repository provides a simple Node.js application that demonstrates basic CR
 
 
 <h1>Usage</h1>
-
-Open your web browser and navigate to http://localhost:3000.
-Use the provided interface to perform CRUD operations:
-Create: Click the "Add Item" button to add new items.
-Read: View the list of items on the home page.
-Update: Click the "Edit" button to modify existing items.
-Delete: Click the "Delete" button to remove items from the list.
-Contribution Guidelines
-If you wish to contribute to this project, please follow these guidelines:
-
-Fork the repository.
 <ol>
-  <li></li>
-  <li></li>
-  <li></li>
+  <li>Open your web browser and navigate to http://localhost:3000.</li>
+  <li>Use the provided interface to perform CRUD operations:
+    <ul>
+      <li>Create: Click the "Add Item" button to add new items.</li>
+      <li>Read: View the list of items on the home page.</li>
+      <li>Update: Click the "Edit" button to modify existing items.</li>
+      <li>Delete: Click the "Delete" button to remove items from the list.</li>
+    </ul>
+  </li>
+  <li></
+
+
+
+
+
+<h3>Contribution Guidelines</h3>
+
+<h4>If you wish to contribute to this project, please follow these guidelines:</h4>
+
+<ol>
+  <li>Fork the repository.</li>
+  <li>Create a new branch for your feature or bug fix: git checkout -b feature-name.</li>
+  <li>Make your changes and commit them: git commit -m "Your commit message".</li>
+  <li>Push your changes to your fork: git push origin feature-name.</li>
+  <li>Create a pull request, describing your changes and the problem or feature they address.</li>
 </ol>
-Create a new branch for your feature or bug fix: git checkout -b feature-name.
-Make your changes and commit them: git commit -m "Your commit message".
-Push your changes to your fork: git push origin feature-name.
-Create a pull request, describing your changes and the problem or feature they address.
-License
+
+<h3>License</h3>
+
 This project is licensed under the MIT License. Feel free to use, modify, and distribute it as needed.
 
-Acknowledgments
+<h3>Acknowledgments</h3>
 Special thanks to the open-source community and the authors of the libraries and tools used in this project.
 
-Happy coding!
+<h2>Happy coding!!! </h2>
