@@ -32,6 +32,7 @@ This repository provides a simple Node.js application that demonstrates basic CR
 <ol>
   <li>
     <h4>Clone the repository to your local machine:</h4>
+   ```mdgit clone https://github.com/your-username/node-crud.git</li>```
     git clone https://github.com/your-username/node-crud.git</li>
   <li>
     <h4>Navigate to the project directory:</h4>
