@@ -1,19 +1,19 @@
 
 <h1>Node CRUD Repository</h1>
 
-Overview
+<h3>Overview</h3>
 This repository provides a simple Node.js application that demonstrates basic CRUD (Create, Read, Update, Delete) operations using Express.js and MongoDB. It serves as a foundation for building scalable and efficient web applications with a focus on managing data through a MongoDB database.
 
-Features
+<h3>Features</h3>
 Create: Add new items to the database.
 Read: Retrieve and display stored data from the MongoDB database.
 Update: Modify existing data in the database.
 Delete: Remove items from the database.
-Technologies Used
+<h3>Technologies Used</h3>
 Node.js: A JavaScript runtime for server-side development.
 Express.js: A minimalist web framework for Node.js, facilitating the building of robust web applications.
 MongoDB: A NoSQL database for storing and managing data in a flexible, JSON-like format.
-Installation
+<h3>Installation</h3>
 Clone the repository to your local machine:
 
 bash
