@@ -95,6 +95,6 @@ This project is licensed under the MIT License. Feel free to use, modify, and di
 Special thanks to the open-source community and the authors of the libraries and tools used in this project.
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=500&color=178D9F&width=435&lines=This+is+Sahad+M+%F0%9F%91%8B;And+happy+coding!!!">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=500&color=178D9F&width=435&lines=This+is+Sahad+M+%F0%9F%91%8B+And+happy+coding!!!;heloooooo">
   </a>
 </h1>
