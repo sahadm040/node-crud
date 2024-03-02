@@ -94,4 +94,4 @@ This project is licensed under the MIT License. Feel free to use, modify, and di
 <h3>Acknowledgments</h3>
 Special thanks to the open-source community and the authors of the libraries and tools used in this project.
 
-<h2 style="color: ("green")>Happy coding!!! </h2>
+<h2 style="color:blue;font-size:46px;">Happy coding!!! </h2>
